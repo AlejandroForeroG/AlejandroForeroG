@@ -8,3 +8,9 @@
 - 😄 Pronouns: He/Him
 
 ---
+### Coding stats 🏆
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlejandroForeroG&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+---
+### MySkills 👨‍💻
+
+  [![My Skills](https://skillicons.dev/icons?i=js,css,html,nodejs,express,java,postgres,python)](https://skillicons.dev)

@@ -9,7 +9,7 @@
 
 ---
 ### Coding stats 🏆
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlejandroForeroG&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlejandroForeroG&theme=transparent&hide_border=true&card_width=500&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ### MySkills 👨‍💻
 

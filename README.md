@@ -12,4 +12,4 @@
 ---
 ### MySkills 👨‍💻
 
-  [![My Skills](https://skillicons.dev/icons?i=js,css,html,nodejs,express,java,postgres,python)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,java,css,html,nodejs,express,postgres,python)](https://skillicons.dev)

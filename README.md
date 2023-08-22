@@ -1,8 +1,7 @@
 ### ¡Hola!🎑
 
-- 🔭 I’m currently working on my grade proyect. 📝
-- 🌱 I’m currently learning backend dev and cloud computing.
-- 🤔 I’m looking for help with DevOps and Data analisis
+- 🔭 I’m currently as a platform engineer 💻
+- 🌱 I’m currently learning backend and DevOps.
 - 💬 Ask me about networks cybersecurity and backend. ✨
 - 📫 How to reach me: in [twitter](https://twitter.com/NeveCodeSTUFF) or [linkedin](https://www.linkedin.com/in/alejandroforerog/), mail me at alejandro.forerog@gmail.com
 - 😄 Pronouns: He/Him
@@ -12,4 +11,4 @@
 ---
 ### MySkills 👨‍💻
 
-  [![My Skills](https://skillicons.dev/icons?i=js,java,python,css,html,nodejs,express,postgres,angular,docker)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,java,python,aws,nodejs,express,angular,react,postgres,mysql,docker,css,html)](https://skillicons.dev)

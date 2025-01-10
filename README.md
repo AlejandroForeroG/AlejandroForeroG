@@ -3,8 +3,7 @@
 Welcome to my GitHub profile! I'm Alejandro, here you can discover more about me:
 
 ## About Me
-- 💼 I work as a platform engineer at IT-ROi.
-- 🌱 I'm currently learning and enhancing my skills in backend and DevOps.
+- 💼 I work as a software engineer at mobohubb.
 - 💬 Feel free to ask me anything you'd like to know!
 - 📫 You can reach me on [Twitter](https://twitter.com/NeveCodeSTUFF), [LinkedIn](https://www.linkedin.com/in/alejandroforerog/), or by email at alejandro.forerog@gmail.com.
 - 😄 Pronouns: He/Him
